@@ -1,4 +1,4 @@
-**iOS集成Flutter报错问题解决**
+**iOS集成Flutter报错 Target debug_ios_bundle_flutter_assets failed 问题解决**
 
  **报错信息**
 
